@@ -1,4 +1,4 @@
 # AXIOM.TRADE-DRAINER-LEAK
-Axiom.trade drainer, full recovery phrase export / Instant withdrawal (1-click bypass)
+## Axiom.trade drainer, full recovery phrase export / Instant withdrawal (1-click bypass)
 
-contact me here: #Friedrich_Leon@proton.me
+# contact me here: Friedrich_Leon@proton.me
